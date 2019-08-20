@@ -42,4 +42,42 @@
 .info-art p {
   font-size: 1.5rem;
 }
+
+.p-fixed {
+  position: fixed;
+}
+
+#logo, #logo1, #logo2, #logo3 {
+  width: 12rem;
+}
+
+#logo1 {
+  height: 10rem;
+}
+
+.opacity {
+  opacity: 0;
+}
+
+.cabecera {
+  text-align: center;
+  padding: 5rem;
+  font-family: 'raleway-bold', sans-serif;
+  font-weight: 700;
+}
+
+.header-bar {
+  width: 14rem;
+  height: 4px;
+  background: #444649;
+  margin: 1rem 23rem;
+}
+
+.code {
+  width: 20rem;
+}
+
+.tec-titulo {
+  margin: 5rem 10rem;
+}
 /*# sourceMappingURL=style.css.map */
